@@ -1,7 +1,7 @@
 #!/bin/bash
-name="Luke Smith"
+name="qbuffer"
 webdir="$(pwd)"
-website="https://lukesmith.xyz/" # Keep a trailing slash.
+website="http://gaue.org" # Keep a trailing slash.
 css="../style.css"
 blogfile="2019.html"
 indexfile="blogindex.html"
